@@ -1,6 +1,6 @@
 {
-    "name": "Garrardkitchen Organization Workflow",
-    "description": "Garrardkitchen Organization CI starter workflow.",
+    "name": "Deploy Workflow",
+    "description": "Deploy to AKS",
     "iconName": "azure-icon",
     "categories": [
         "csharp"
