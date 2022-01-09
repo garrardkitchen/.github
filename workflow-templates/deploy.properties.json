@@ -1,7 +1,7 @@
 {
     "name": "Garrardkitchen Organization Workflow",
     "description": "Garrardkitchen Organization CI starter workflow.",
-    "iconName": "example-icon",
+    "iconName": "azure-icon",
     "categories": [
         "csharp"
     ],
